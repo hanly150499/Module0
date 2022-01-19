@@ -1,0 +1,4 @@
+SALES_TAX = 0.07
+SHIPPING_CHARGE = 200
+Price = 120
+
